@@ -1,0 +1,6 @@
+[submodule "mekuls_db/roles/ansible-role-mongodb"]
+	path = mekuls_db/roles/ansible-role-mongodb
+	url = git@github.com:UnderGreen/ansible-role-mongodb.git
+[submodule "mekuls_db/roles/ansible-role-mysql"]
+	path = mekuls_db/roles/ansible-role-mysql
+	url = git@github.com:geerlingguy/ansible-role-mysql.git
